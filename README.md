@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Emil 👋
 
-<!--
-**VexuBGM/VexuBGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer at Research Metrics and a high school student specializing in Artificial Intelligence Programming.
 
-Here are some ideas to get you started:
+I'm interested in **AI, Software Engineering, Machine Learning and Web Development**, with a focus on building practical, real-world software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning abstract ideas into practical, working systems and learning through hands-on development.
+
+## Currently
+- 💻 Junior Developer at Research Metrics
+- 🎓 Studying Artificial Intelligence Programming
+- 🛠️ Building software, AI projects and automations
+
+## Featured project
+
+### Debatera
+An all-in-one platform for organizing and running debate tournaments.
+
+- Used in real debate competitions
+- Built as a complete web platform
+- [Source Code](LINK)
+- [Live Website](LINK)
+
+## Connect with me
+- LinkedIn: LINK
